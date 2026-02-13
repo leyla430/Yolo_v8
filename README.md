@@ -29,6 +29,8 @@ Nota: si no aparece la detección después de 1–2 minutos, detén el launch y 
 
 # 4. Ejecutar scripts adicionales
 python3 color_rv.py
+
 python3 persona.py
+
 python3 s_cebra.py
 
